@@ -16,6 +16,12 @@ Built with React, Node.js, Express, and OpenAI API.
 
 ---
 
+## Live Demo
+
+https://layout-agent-clean-brown.vercel.app/
+
+---
+
 ## Tech Stack
 
 ### Frontend
